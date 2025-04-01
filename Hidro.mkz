@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hidro Moz - Furo de Água</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #0077b6;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #0077b6;
+            color: white;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Hidro Moz - Furo de Água
+    </header>
+    <section>
+        <h2>Sobre Nós</h2>
+        <p>A Hidro Moz é especializada em perfuração de poços artesianos, garantindo água de qualidade para sua casa, empresa ou propriedade rural.</p>
+    </section>
+    <section>
+        <h2>Serviços</h2>
+        <p>Realizamos serviços de furo de água com equipamentos modernos e equipe altamente qualificada.</p>
+    </section>
+    <section>
+        <h2>Contato</h2>
+        <p>Telefone/WhatsApp: 847007487</p>
+    </section>
+    <footer>
+        &copy; 2024 Hidro Moz. Todos os direitos reservados.
+    </footer>
+</body>
+</html>
